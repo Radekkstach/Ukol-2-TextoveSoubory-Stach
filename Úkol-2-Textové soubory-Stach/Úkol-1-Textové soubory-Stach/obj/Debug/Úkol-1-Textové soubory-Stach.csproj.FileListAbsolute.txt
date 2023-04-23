@@ -1,0 +1,11 @@
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\bin\Debug\Úkol-1-Textové soubory-Stach.exe.config
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\bin\Debug\Úkol-1-Textové soubory-Stach.exe
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\bin\Debug\Úkol-1-Textové soubory-Stach.pdb
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol-1-Textové soubory-Stach.csproj.AssemblyReference.cache
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol-1-Textové soubory-Stach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol_1_Textové_soubory_Stach.Properties.Resources.resources
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol-1-Textové soubory-Stach.csproj.GenerateResource.cache
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol-1-Textové soubory-Stach.csproj.CoreCompileInputs.cache
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol-1-Textové soubory-Stach.exe
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol-1-Textové soubory-Stach.pdb
+C:\Users\Uživatel\Desktop\programko\Úkol-1-Textové soubory-Stach\Úkol-1-Textové soubory-Stach\obj\Debug\Úkol_1_Textové_soubory_Stach.Form1.resources
